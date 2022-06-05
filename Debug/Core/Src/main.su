@@ -1,0 +1,6 @@
+../Core/Src/main.c:67:6:CANSend	48	static
+../Core/Src/main.c:87:6:packIn	24	static
+../Core/Src/main.c:103:6:In	64	static
+../Core/Src/main.c:125:5:main	32	static
+../Core/Src/main.c:186:6:SystemClock_Config	112	static
+../Core/Src/main.c:234:6:Error_Handler	8	static,ignoring_inline_asm
